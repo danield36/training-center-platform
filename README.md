@@ -140,10 +140,6 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center">
   
-----------------------
-> >  <br/> &copy; *Walid BOUSSOU, Mohamed Aymane ASSLADDAY, Soulaimane OULED TALEB*   🇲🇦 😄 <br/>  
-----------------------
-
 <details open disabled>
 
 <summary>👏 Thanks for the support </summary>
