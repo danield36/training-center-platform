@@ -1,22 +1,22 @@
 
 
-![SpringBoot-Angular-TrainingCenter-Management](https://socialify.git.ci/walidbosso/SpringBoot-Angular-TrainingCenter-Management/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![training-center-platform](https://socialify.git.ci/tomasreyes83/training-center-platform/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
-<a href="https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management">
+<a href="https://github.com/tomasreyes83/training-center-platform">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tomasreyes83&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tomasreyes83/training-center-platform)
 
   <p align="center">
-<a href="https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FSpringBoot-Angular-TrainingCenter-Management&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/tomasreyes83/training-center-platform">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftomasreyes83%2Ftraining-center-platform&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management">
+<a href="https://github.com/tomasreyes83/training-center-platform">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -102,7 +102,7 @@ Before you begin, ensure you have the following installed:
 1. Fork then clone the repository
 
     ```bash
-    git clone https://github.com/<YOUR-GITHUB-USERNAME>/SpringBoot-Angular-TrainingCenter-Management.git
+    git clone https://github.com/<YOUR-GITHUB-USERNAME>/training-center-platform.git
     ```
 
 2. Set up the backend: Just open the project on STS, It will automatically built and compile, if anything just then search for Maven Install and click it.
@@ -134,7 +134,7 @@ This project operates under the **MIT License**. Refer to the [LICENSE](LICENSE)
 
 Your feedback and contributions are invaluable! Feel free to open issues, submit pull requests, or connect for discussions.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions. 
+- Contact me in [LinkedIn](https://www.linkedin.com/in/tomasreyes83) for questions. 
 
 <br>
 
@@ -153,7 +153,7 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/SpringBoot-Angular-TrainingCenter-Management](http://reporoster.com/stars/dark/walidbosso/SpringBoot-Angular-TrainingCenter-Management)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management/stargazers)
+[![Stargazers repo roster for @tomasreyes83/training-center-platform](http://reporoster.com/stars/dark/tomasreyes83/training-center-platform)](https://github.com/tomasreyes83/training-center-platform/stargazers)
 
 
 
@@ -163,14 +163,14 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/SpringBoot-Angular-TrainingCenter-Management](http://reporoster.com/forks/dark/walidbosso/SpringBoot-Angular-TrainingCenter-Management)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management/network/members)
+[![Forkers repo roster for @tomasreyes83/training-center-platform](http://reporoster.com/forks/dark/tomasreyes83/training-center-platform)](https://github.com/tomasreyes83/training-center-platform/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/SpringBoot-Angular-TrainingCenter-Management"/>
+<a href = "https://github.com/tomasreyes83">
+  <img src = "https://contrib.rocks/image?repo=tomasreyes83/training-center-platform"/>
 </a>
 
 
@@ -179,12 +179,12 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/SpringBoot-Angular-TrainingCenter-Management?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tomasreyes83/training-center-platform?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/SpringBoot-Angular-TrainingCenter-Management?style=social)
+![GitHub License](https://img.shields.io/github/license/tomasreyes83/training-center-platform?style=social)
 
 
 
@@ -198,15 +198,15 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/tomasreyes83">
   <img src = "light.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/tomasreyes83">
   <img src = "2070f812d6a581d5782c2df2f13165e8.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/tomasreyes83">
   <img src = "light.gif" width="100%"/>
 </a>
 
